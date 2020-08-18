@@ -123,15 +123,3 @@ class Dog extends Pet{
 // ARROW Functions allow us to bind this to the context where it is defined
 
 
-// let teacher1 = {
-//     name: "Jenn"
-// }
-
-// let teacher2 = {
-//     name: "Cernan"
-// }
-
-// function sayName(){
-//     console.log(this.name)
-// }
-
